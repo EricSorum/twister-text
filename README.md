@@ -1,7 +1,7 @@
 ```markdown
 # Twister Text
 
-Twister Text is a visually engaging web page that features a text animation resembling a twister. Each word from a provided text string appears in a random color and at various sizes, swirling around in a funnel shape with the funnel point directed downward. The animation automatically plays upon page load and loops continuously.
+This project was built using the Pythagora AI integration with Visual Studio Code.  Aside from some debugging and a few hand-written lines of code, no typing or even copying and pasting was required to build this page after the intial prompt.  Pythagora automatically creates all the necessary files and code for the project with little human intervention.
 
 ## Overview
 
